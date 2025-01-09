@@ -1,0 +1,21 @@
+Id_abonnements,Nom_abonnements,prix,périodicité,modalité_de_paiement
+1,Basique,5,Mensuel,Carte bancaire
+2,Standard,25,Mensuel,Carte bancaire
+3,Premium,75,Mensuel,Carte bancaire
+4,Basique,60,Annuel,Prélèvement automatique
+5,Standard,300,Annuel,Prélèvement automatique
+6,Premium,900,Annuel,Prélèvement automatique
+7,Basique,5,Mensuel,Chèque
+8,Standard,25,Mensuel,Chèque
+9,Premium,75,Mensuel,Chèque
+10,Basique,60,Annuel,Carte bancaire
+11,Standard,300,Annuel,Carte bancaire
+12,Premium,900,Annuel,Carte bancaire
+13,Basique,5,Mensuel,Virement bancaire
+14,Standard,25,Mensuel,Virement bancaire
+15,Premium,75,Mensuel,Virement bancaire
+16,Basique,60,Annuel,Virement bancaire
+17,Standard,300,Annuel,Virement bancaire
+18,Premium,900,Annuel,Virement bancaire
+19,Basique,5,Mensuel,Prélèvement automatique
+20,Standard,25,Mensuel,Prélèvement automatique
