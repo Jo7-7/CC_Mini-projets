@@ -161,6 +161,6 @@ Ce projet est sous **MIT License**. Voir [LICENSE](LICENSE) pour plus d’inform
 📩 Email: akpablinboaz@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/amon-akpablin-b60a6b216/
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&color=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&color=blue)
 
 
