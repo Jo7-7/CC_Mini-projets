@@ -141,19 +141,20 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
    ```
 4️⃣ **Exécuter les tests SQL** 
    ```sql
-   SOURCE tests/test.sql;
-   SOURCE tests/performance_tests.sql;
+      SOURCE tests/test.sql;
+      SOURCE tests/performance_tests.sql;
    ```
 5️⃣ **Générer des données supplémentaires (1000 adhérents)**
     ```sql
       python scripts/generate_data.py
-   ```
-6️⃣ **Consulter les exemples de requêtes**
-   ```sql
-    SOURCE docs/exemples_requetes.sql;
-   ```
+    ```
 
-📸 Retrouve aussi les captures d’écran des résultats dans docs/screenshots/
+6️⃣ **Consulter les exemples de requêtes**
+```sql
+   SOURCE docs/exemples_requetes.sql;
+```
+
+**📸 Retrouve aussi les captures d’écran des résultats dans docs/screenshots/**
 
 ---
 
