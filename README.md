@@ -65,7 +65,7 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 ---
 
 📌 Livrables
-
+```
 ✅ Cahier des charges détaillé : Cahier_des_charges.pdf
 ✅ Modèle conceptuel de données (MCD) : MCD_mini_projet.loo
 ✅ Modèle physique de données (MPD) : MPD_mini_projet.sql
@@ -74,16 +74,17 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 ✅ Guide d’utilisation de la base SQL : guide_utilisation.sql
 ✅ Rapport final : rapport_projet.pdf
 ✅ Script Python de génération de données : generate_data.py
-
+```
 ---
 
-📌 Délais et Planning Prévisionnel
 
+📌 Délais et Planning Prévisionnel
+```
 🔹 Étape 1 : Analyse des besoins et spécifications détaillées ✅ Terminée
 🔹 Étape 2 : Conception du modèle de données ✅ Terminée
 🔹 Étape 3 : Développement de la base de données et tests SQL ✅ Terminée
 🔹 Étape 4 : Optimisation et documentation finale 🚀 En cours 
-
+```
 ---
 
 ## 📂 Structure du Projet
