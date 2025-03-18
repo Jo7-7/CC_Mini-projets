@@ -4,7 +4,7 @@ USE Bd_Malloc_your_Muscle;
 SELECT COUNT(*) AS nombre_adhérents FROM Adhérents;
 
 -- 2️⃣ Lister les 10 premiers adhérents
-SELECT * FROM Adhérents LIMIT 10;
+SELECT TOP 10 * FROM Adhérents;
 
 -- 3️⃣ Vérifier si tous les abonnements sont bien attribués
 SELECT Abonnements.Nom_abonnements, COUNT(Adhérents.Id_adhérent) AS total_adhérents
