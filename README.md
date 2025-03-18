@@ -142,11 +142,17 @@ Ce projet est sous **MIT License**. Voir [LICENSE](LICENSE) pour plus d’inform
 
 ---
 
-## 📫 Contact
+## 📫 Contacts
 
 👤 **Jo7-7**  
 📩 Email: josuekoffi27@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/josu%C3%A9-kinsanh-nixxon-koffi/
+
+👤 **Nathanamon**
+📩 Email: akpablinboaz@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/amon-akpablin-b60a6b216/
+
+
 
 
 
