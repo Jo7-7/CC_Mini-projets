@@ -74,6 +74,8 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 -   ✅ Guide d’utilisation de la base SQL : guide_utilisation.sql
 -   ✅ Rapport final : rapport_projet.pdf
 -   ✅ Script Python de génération de données : generate_data.py
+-   ✅ Exemples de requêtes SQL : exemples_requetes.sql
+-   ✅ Captures d’écran des requêtes : Dossier screenshots
 
 ---
 
@@ -108,6 +110,8 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 │   │── 📄 architecture_BD.pdf
 │   │── 📄 guide_utilisation.sql
 │   │── 📄 rapport_projet.pdf
+│   │── 📄 exemples_requetes.sql
+│   │── 📂 screenshots/       # Captures d’écran des résultats SQL   
 │── 📂 scripts/               # Scripts Python
 │   │── 📄 generate_data.py   # Génération automatique de données
 ```
