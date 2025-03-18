@@ -65,26 +65,26 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 ---
 
 📌 Livrables
-```
-✅ Cahier des charges détaillé : Cahier_des_charges.pdf
-✅ Modèle conceptuel de données (MCD) : MCD_mini_projet.loo
-✅ Modèle physique de données (MPD) : MPD_mini_projet.sql
-✅ Diagramme Entité-Relation (ERA) : diagramme_entité_relation.png
-✅ Architecture de la base de données : architecture_BD.pdf
-✅ Guide d’utilisation de la base SQL : guide_utilisation.sql
-✅ Rapport final : rapport_projet.pdf
-✅ Script Python de génération de données : generate_data.py
-```
+
+-   ✅ Cahier des charges détaillé : Cahier_des_charges.pdf
+-   ✅ Modèle conceptuel de données (MCD) : MCD_mini_projet.loo
+-   ✅ Modèle physique de données (MPD) : MPD_mini_projet.sql
+-   ✅ Diagramme Entité-Relation (ERA) : diagramme_entité_relation.png
+-   ✅ Architecture de la base de données : architecture_BD.pdf
+-   ✅ Guide d’utilisation de la base SQL : guide_utilisation.sql
+-   ✅ Rapport final : rapport_projet.pdf
+-   ✅ Script Python de génération de données : generate_data.py
+
 ---
 
 
 📌 Délais et Planning Prévisionnel
-```
-🔹 Étape 1 : Analyse des besoins et spécifications détaillées ✅ Terminée
-🔹 Étape 2 : Conception du modèle de données ✅ Terminée
-🔹 Étape 3 : Développement de la base de données et tests SQL ✅ Terminée
-🔹 Étape 4 : Optimisation et documentation finale 🚀 En cours 
-```
+
+-   🔹 Étape 1 : Analyse des besoins et spécifications détaillées ✅ Terminée
+-   🔹 Étape 2 : Conception du modèle de données ✅ Terminée
+-   🔹 Étape 3 : Développement de la base de données et tests SQL ✅ Terminée
+-   🔹 Étape 4 : Optimisation et documentation finale 🚀 En cours 
+
 ---
 
 ## 📂 Structure du Projet
@@ -116,9 +116,9 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 
 🛠️ Outils et Technologies
 
-✅ Looping – Conception du MCD.
-✅ MySQL & DataGrip – Gestion et optimisation des requêtes SQL.
-✅ Python – Génération automatique des 1000 adhérents via generate_data.py.
+-   ✅ Looping – Conception du MCD.
+-   ✅ MySQL & DataGrip – Gestion et optimisation des requêtes SQL.
+-   ✅ Python – Génération automatique des 1000 adhérents via generate_data.py.
 
 ## ⚙️ Installation & Utilisation
 
