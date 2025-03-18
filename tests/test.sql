@@ -27,7 +27,9 @@ GROUP BY Activité_sportive.Nom_activité
 ORDER BY nombre_salles DESC;
 
 -- 6️⃣ Tester la performance d'une requête complexe
-EXPLAIN SELECT * FROM Adhérents
+SET STATISTICS PROFILE ON;
+SELECT * FROM Adhérents
 JOIN Disposer ON Adhérents.Id_adhérent = Disposer.Id_adhérent
 JOIN Salles ON Disposer.Code_postal = Salles.Code_postal
 WHERE Salles.Ville = 'Paris';
+SET STATISTICS PROFILE OFF;
