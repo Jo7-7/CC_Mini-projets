@@ -145,10 +145,9 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
       SOURCE tests/performance_tests.sql;
    ```
 5️⃣ **Générer des données supplémentaires (1000 adhérents)**
-    ```sql
-      python scripts/generate_data.py
-    ```
-
+```sql
+   python scripts/generate_data.py
+```
 6️⃣ **Consulter les exemples de requêtes**
 ```sql
    SOURCE docs/exemples_requetes.sql;
