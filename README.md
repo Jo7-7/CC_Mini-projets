@@ -72,7 +72,6 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 ✅ Diagramme Entité-Relation (ERA) : diagramme_entité_relation.png
 ✅ Architecture de la base de données : architecture_BD.pdf
 ✅ Guide d’utilisation de la base SQL : guide_utilisation.sql
-✅ Présentation du projet : présentation_projet.pptx
 ✅ Rapport final : rapport_projet.pdf
 ✅ Script Python de génération de données : generate_data.py
 
@@ -116,7 +115,9 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 
 🛠️ Outils et Technologies
 
-✅ Looping – Conception du MCD.✅ MySQL & DataGrip – Gestion et optimisation des requêtes SQL.✅ Python – Génération automatique des 1000 adhérents via generate_data.py.
+✅ Looping – Conception du MCD.
+✅ MySQL & DataGrip – Gestion et optimisation des requêtes SQL.
+✅ Python – Génération automatique des 1000 adhérents via generate_data.py.
 
 ## ⚙️ Installation & Utilisation
 
