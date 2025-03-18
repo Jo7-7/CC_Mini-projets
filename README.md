@@ -127,25 +127,37 @@ Ce projet s'inscrit dans un cadre académique avec pour objectif la mise en œuv
 ## ⚙️ Installation & Utilisation
 
 ### 🔽 Installation
-1. **Cloner le dépôt GitHub**  
+1️⃣ **Cloner le dépôt GitHub**  
    ```bash
    git clone https://github.com/Jo7-7/CC_Mini-projets.git
    cd CC_Mini-projets
    ```
-2. **Lancer MySQL et exécuter les scripts SQL**  
+2️⃣ **Configurer la base de données**
    ```sql
    SOURCE sql_scripts/gym_database.sql;
    SOURCE sql_scripts/insert_data.sql;
    ```
-3. **Vérifier la création et l'intégrité des données**  
+3️⃣ **Vérifier la structure et l'intégrité des données** 
    ```sql
-   SHOW TABLES;
-   SELECT COUNT(*) FROM Adhérents;
+      SHOW TABLES;
+      SELECT COUNT(*) FROM Adhérents;
+      SOURCE tests/integrity_check.sql;
    ```
-4. **Exécuter les tests SQL pour valider la base**  
+4️⃣ **Exécuter les tests SQL** 
    ```sql
-   SOURCE tests/test.sql;
+      SOURCE tests/test.sql;
+      SOURCE tests/performance_tests.sql;
    ```
+5️⃣ **Générer des données supplémentaires (1000 adhérents)**
+```sql
+   python scripts/generate_data.py
+```
+6️⃣ **Consulter les exemples de requêtes**
+```sql
+   SOURCE docs/exemples_requetes.sql;
+```
+
+**📸 Retrouve aussi les captures d’écran des résultats dans docs/screenshots/**
 
 ---
 
